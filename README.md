@@ -1,3 +1,6 @@
+Live At: https://hackerxnft.netlify.app/
+
+
 
 # Hardhat-Tailwind-React Ethers Starter Kit
 Speedily develope your decentralized application with this starter kit for free!
